@@ -10,7 +10,7 @@ https://daru970706.github.io
 ![Spring boot](https://img.shields.io/badge/Springboot-007396.svg?&style=for-the-badge&logo=Springboot&logoColor=white)
 ![node.js](https://img.shields.io/badge/node.js-002396.svg?&style=for-the-badge&logo=node.js&logoColor=white)
 ![mysql](https://img.shields.io/badge/mysql-002462.svg?&style=for-the-badge&logo=mysql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-002462.svg?&style=for-the-badge&logo=Python&logoColor=white)
+![Python](https://img.shields.io/badge/Python(LOW)-002462.svg?&style=for-the-badge&logo=Python&logoColor=white)
 
 # Tool
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-002462.svg?&style=for-the-badge&logo=IntelliJIDEA&logoColor=white)
