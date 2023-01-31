@@ -2,6 +2,8 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=daru970706&show_icons=true&theme=codeSTACKr)
  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jmg97)](https://solved.ac/jmg97/)
+<br>
+<h3> www.acmicpc.net started 2023.02</h3>
 
 # Check Portfolio Page!
 https://daru90706.github.io
