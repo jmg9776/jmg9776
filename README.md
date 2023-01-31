@@ -2,7 +2,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=daru970706&show_icons=true&theme=codeSTACKr)
 <br>
-www.acmicpc.net started 2023.02
 
 # Check Portfolio Page!
 https://daru970706.github.io
