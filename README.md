@@ -1,6 +1,6 @@
 # JO MINGYUN
 
-https://jmg9776.github.io (Editing)
+https://blog.mgbg.kr
 
 # Skill
 ![Spring boot](https://img.shields.io/badge/Springboot-007396.svg?&style=for-the-badge&logo=Springboot&logoColor=white)
