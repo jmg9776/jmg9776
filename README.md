@@ -11,3 +11,5 @@ https://blog.mgbg.kr
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-002462.svg?&style=for-the-badge&logo=IntelliJIDEA&logoColor=white)
 ![DataGrip](https://img.shields.io/badge/DataGrip-007396.svg?&style=for-the-badge&logo=DataGrip&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/VisualStudioCode-007396.svg?&style=for-the-badge&logo=VisualStudioCode&logoColor=white)
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jmg97)](https://solved.ac/jmg97/)
