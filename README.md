@@ -13,3 +13,4 @@ https://blog.mgbg.kr
 ![Visual Studio Code](https://img.shields.io/badge/VisualStudioCode-007396.svg?&style=for-the-badge&logo=VisualStudioCode&logoColor=white)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jmg97)](https://solved.ac/jmg97/)
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=jmg97&theme=warm)
