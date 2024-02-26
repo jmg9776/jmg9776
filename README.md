@@ -12,5 +12,9 @@ https://blog.mgbg.kr
 ![DataGrip](https://img.shields.io/badge/DataGrip-007396.svg?&style=for-the-badge&logo=DataGrip&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/VisualStudioCode-007396.svg?&style=for-the-badge&logo=VisualStudioCode&logoColor=white)
 
+<div style="text-align:center">
+  
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jmg97)](https://solved.ac/jmg97/)
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=jmg97&theme=warm)
+
+</div>
