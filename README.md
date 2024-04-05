@@ -16,5 +16,4 @@ https://blog.mgbg.kr
   <a href="https://solved.ac/jmg97/">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jmg97" alt="Solved.ac Profile">
   </a>
-  <img src="http://mazandi.herokuapp.com/api?handle=jmg97&theme=warm" alt="mazandi profile">
 </p>
