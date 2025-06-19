@@ -10,9 +10,3 @@ I'm Mingyun Jo, a developer who started coding back in 2010 with Visual Basic 6.
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-002462.svg?&style=for-the-badge&logo=IntelliJIDEA&logoColor=white)
 ![DataGrip](https://img.shields.io/badge/DataGrip-007396.svg?&style=for-the-badge&logo=DataGrip&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/VisualStudioCode-007396.svg?&style=for-the-badge&logo=VisualStudioCode&logoColor=white)
-
-<p align="center">
-  <a href="https://solved.ac/jmg97/">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jmg97" alt="Solved.ac Profile">
-  </a>
-</p>
