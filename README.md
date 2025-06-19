@@ -1,6 +1,5 @@
-# JO MINGYUN
-
-https://blog.mgbg.kr
+# Introduce
+I'm Mingyun Jo, a developer who started coding back in 2010 with Visual Basic 6.0. I earned my degree in Computer Engineering in 2023.
 
 # Skill
 ![Spring boot](https://img.shields.io/badge/Springboot-007396.svg?&style=for-the-badge&logo=Springboot&logoColor=white)
