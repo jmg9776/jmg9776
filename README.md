@@ -1,5 +1,6 @@
 # Introduce
 I'm Mingyun Jo, a developer who started coding back in 2010 with Visual Basic 6.0.
+
 I earned my degree in Computer Engineering in 2023.
 
 # Skill
