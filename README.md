@@ -4,6 +4,7 @@
   <a href="mailto:jmg97@kakao.com"><img src="https://img.shields.io/badge/Email-jmg97@kakao.com-blue?style=flat-square&logo=gmail" alt="email"/></a>
   <a href="https://linkedin.com/in/mjjo97"><img src="https://img.shields.io/badge/LinkedIn-mjjo97-0A66C2?style=flat-square&logo=linkedin" alt="linkedin"/></a>
 </p>
+
 ---
 
 🧑‍💻 Currently
